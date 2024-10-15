@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/gianmromero/testimonials-grid-section-main
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://testimonials-grid-section-main-6hkikmbio-gianmromeros-projects.vercel.app/
 
 ## My process
 
